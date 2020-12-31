@@ -1,3 +1,3 @@
 # regex-puzzle-solutions
 
-Solutions and Explanations for all puzzles found on regexcrossword.com :) 
+my solutions and explanations for all puzzles found on regexcrossword.com :) 
